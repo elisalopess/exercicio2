@@ -1,4 +1,3 @@
-
 library(readxl)
 dados <- read_excel("\\Users\\elisa\\OneDrive\\Mestrado\\Artigo\\Banco de dados - artigo\\dados_regiao.xlsx")
 
